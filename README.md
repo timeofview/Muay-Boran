@@ -6,9 +6,7 @@
 
 Il "Wai" è un gesto di saluto tradizionale tailandese che rappresenta rispetto e cortesia. Nella Muay Thai Boran, viene
 utilizzato per mostrare rispetto verso l'istruttore o il maestro. Questo gesto è eseguito portando le mani insieme
-vicino al petto con le dita puntate verso l'alto, mentre si inclina leggermente la testa. È spesso accompagnato da un
-rituale chiamato "Wai Kru", che serve a rendere omaggio agli insegnanti e alle tradizioni spirituali della Thailandia,
-preparando i combattenti mentalmente e spiritualmente prima dell'allenamento o della competizione.
+vicino al petto con le dita puntate verso l'alto, mentre si inclina leggermente la testa.
 
 **B) Jot Muay Sai/Kua - Guardie**
 
@@ -21,14 +19,21 @@ bersaglio minore e le braccia proteggono i punti vitali del tronco e della gola.
 
 # Chern Muay
 
-"Chern Muay" è un insieme di tecniche fondamentali nella Muay Thai Boran, basate sull'uso delle "nove armi" del corpo. Queste tecniche si dividono in quattro gruppi principali:
+"Chern Muay" è un insieme di tecniche fondamentali nella Muay Thai Boran, basate sull'uso delle "nove armi" del corpo.
+Queste tecniche si dividono in quattro gruppi principali:
 
 1. **Chern Mahd** - Tecniche di pugni.
 2. **Chern Thao** - Tecniche di calci.
 3. **Chern Kao** - Tecniche di ginocchia.
 4. **Chern Sok** - Tecniche di gomiti.
 
-Ogni gruppo comprende una varietà di attacchi e contrattacchi, combinando spesso più tecniche per massimizzare l'efficacia in combattimento.
+Ogni gruppo comprende una varietà di attacchi e contrattacchi, combinando spesso più tecniche per massimizzare
+l'efficacia in combattimento.
+
+    - Sai sinistro
+    - Kua destro
+    - Nam mano anteriore
+    - Tam mano posteriore
 
 1) **Mahd Trong Sai Nam/Kua Tam**
     - Pugno diretto
